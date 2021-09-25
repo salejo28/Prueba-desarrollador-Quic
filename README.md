@@ -4,7 +4,7 @@
 
 Esta prueba fue desarrollada con Node js con el framework Express js, cuenta con una base de datos MySQL, autenticación por tokens con JWT.
 
-## Estructura del projecto
+## Estructura del proyecto
 ```
 ├── App.js
 ├── auth
@@ -57,7 +57,7 @@ git clone https://github.com/santi280403/Prueba-desarrollador-Quic.git
 2. Crear la base de datos
 Si lo vas hacer desde consola solo copea el archivo que esta en la carpeta db y si lo vas hacer desde otro gesto como lo puede ser **phpmyadmin** sube el archivo.
 
-3. Crea el archivo **.env** en la raíz del projecto, con la siguiente estructura:
+3. Crea el archivo **.env** en la raíz del proyecto, con la siguiente estructura:
 ```
 DB_HOST=tu_host
 DB_USER=tu_usuario
